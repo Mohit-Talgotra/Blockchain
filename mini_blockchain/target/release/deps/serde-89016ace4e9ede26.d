@@ -1,0 +1,14 @@
+C:\Mohit\Repositories\Blockchain\23BKT0075\mini_blockchain\target\release\deps\serde-89016ace4e9ede26.d: C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Mohit\Repositories\Blockchain\23BKT0075\mini_blockchain\target\release\build\serde-51cd6a1e7cceb133\out/private.rs
+
+C:\Mohit\Repositories\Blockchain\23BKT0075\mini_blockchain\target\release\deps\libserde-89016ace4e9ede26.rlib: C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Mohit\Repositories\Blockchain\23BKT0075\mini_blockchain\target\release\build\serde-51cd6a1e7cceb133\out/private.rs
+
+C:\Mohit\Repositories\Blockchain\23BKT0075\mini_blockchain\target\release\deps\libserde-89016ace4e9ede26.rmeta: C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Mohit\Repositories\Blockchain\23BKT0075\mini_blockchain\target\release\build\serde-51cd6a1e7cceb133\out/private.rs
+
+C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs:
+C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs:
+C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs:
+C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs:
+C:\Users\talgo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs:
+C:\Mohit\Repositories\Blockchain\23BKT0075\mini_blockchain\target\release\build\serde-51cd6a1e7cceb133\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Mohit\\Repositories\\Blockchain\\23BKT0075\\mini_blockchain\\target\\release\\build\\serde-51cd6a1e7cceb133\\out
